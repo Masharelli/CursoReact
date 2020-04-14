@@ -5,7 +5,7 @@ import WeatherData from './WeatherData';
 //props es un parametro
 const WeatherLocation = () =>(
     <div>
-        <Location city = {"Canada"}></Location>
+        <Location city = {"Barcelona"}></Location>
         <WeatherData></WeatherData>
     </div>
 );

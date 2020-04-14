@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 //Se importa el componente y se utiliza directo ese componente
 import WeatherLocation from './Components/WeatherLocations';
-import logo from './logo.svg';
 import './App.css';
 
 class App extends Component{
